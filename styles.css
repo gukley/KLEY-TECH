@@ -6,7 +6,7 @@ body, h1, h2, h3, p, ul, li {
 .content-main {
   font-family: Arial, sans-serif;
   background-color: gray;
-  color: black;
+  color: white;
   text-align: center;
   background-image: url(pc\ gamer.jpg);
   
@@ -21,7 +21,10 @@ body, h1, h2, h3, p, ul, li {
   padding: 20px 0;
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   font-size: 22px ;
-  
+  background-image: url(kley\ store.png);
+  background-size: cover;
+  height: 100%;
+    
 }
 
 .content-ul {
@@ -217,6 +220,7 @@ section {
   width: 20%;
   
 }
+
 
 
 
